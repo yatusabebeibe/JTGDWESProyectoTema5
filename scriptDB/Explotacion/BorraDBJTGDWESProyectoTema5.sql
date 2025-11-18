@@ -1,0 +1,4 @@
+USE DBJTGDWESProyectoTema5;
+
+DROP TABLE IF EXISTS T02_Departamento;
+DROP TABLE IF EXISTS T01_Usuario;
