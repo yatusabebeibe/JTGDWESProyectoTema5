@@ -1,1 +1,5 @@
 DirectoryIndex indexProyectoTema5.php index.php index.html
+
+RewriteEngine On
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%1]
