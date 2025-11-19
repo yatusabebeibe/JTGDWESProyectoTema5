@@ -238,8 +238,8 @@
                     <td>1</td>
                     <td>Desarrollo de un control de acceso con identificación del usuario basado en la función header().</i></td>
                     <td>
-                        <a href="./codigoPHP/ejercicio01.php" target="_self"><!-- Ejecutar --></a>
-                        <a href="./mostrarcodigo/muestraEjercicio01.php" target="_self"><!-- Ver código --></a>
+                        <a href="./codigoPHP/ejercicio01.php" target="_self">Ejecutar</a>
+                        <a href="./mostrarcodigo/muestraEjercicio01.php" target="_self">Ver código</a>
                     </td>
                 </tr>
                 <tr>
