@@ -246,8 +246,8 @@
                     <td>2</td>
                     <td>Desarrollo de un control de acceso con identificación del usuario basado en la función header() y en el uso de una tabla “Usuario” de la base de datos. ().</td>
                     <td>
-                        <a href="./codigoPHP/ejercicio02.php" target="_self"><!-- Ejecutar --></a>
-                        <a href="./mostrarcodigo/muestraEjercicio02.php" target="_self"><!-- Ver código --></a>
+                        <a href="./codigoPHP/ejercicio02.php" target="_self">Ejecutar</a>
+                        <a href="./mostrarcodigo/muestraEjercicio02.php" target="_self">Ver código</a>
                     </td>
                 </tr>
                 <tr>
