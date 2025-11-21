@@ -13,7 +13,7 @@ const DBUserRoot = "adminsql";
 const DBPassRoot = "paso";
 const DSNRoot = "mysql:host=".DBHost;
 
-//  tema 4
+// usuario
 const DBName = "DBJTGDWESProyectoTema5";
 const DBUser = "userJTGDWESProyectoTema5";
 const DBPass = "paso";
