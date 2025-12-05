@@ -264,11 +264,8 @@
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td>Implantación uso y disfrute de Xdebug en nuestro entorno de desarrollo. (Instalado en Ubuntu Server junto a Apache y lo usamos desde Windows integrándolo en NetBeans).</td>
-                    <td>
-                        <a href="./codigoPHP/ejercicio04.php" target="_self"><!-- Ejecutar --></a>
-                        <a href="./mostrarcodigo/muestraEjercicio04.php" target="_self"><!-- Ver código --></a>
-                    </td>
+                    <td>Implantación uso y disfrute de Xdebug en nuestro entorno de desarrollo. (Instalado en Ubuntu Server junto a Apache y lo usamos desde Windows integrándolo en VSCode).</td>
+                    <td>✅</td>
                 </tr>
                 <tr>
                     <td>5</td>
