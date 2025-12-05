@@ -5,12 +5,12 @@
      */
 
     $variablesSuperglobales = [
+        '_SESSION' => $_SESSION ?? [], // Lo crea si no esta creado
+        '_COOKIE' => $_COOKIE,
         '_SERVER' => $_SERVER,
         '_GET' => $_GET,
         '_POST' => $_POST,
         '_FILES' => $_FILES,
-        '_COOKIE' => $_COOKIE,
-        '_SESSION' => $_SESSION ?? [], // Lo crea si no esta creado
         '_REQUEST' => $_REQUEST,
         '_ENV' => $_ENV
     ];
