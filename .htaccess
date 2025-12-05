@@ -1,1 +1,9 @@
 DirectoryIndex indexProyectoTema5.php index.php index.html
+
+# Ponemos esto porque en desarrollo no esta instalado el modulo rewrite
+<IfModule mod_rewrite.c>
+    # Lo ponemos porque usamos autenticacion por header en el ejercicio 1
+    RewriteEngine On
+    RewriteCond %{HTTP:Authorization} !^$
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
