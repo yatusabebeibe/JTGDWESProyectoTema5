@@ -5,6 +5,7 @@
      */
     
     $aUsuarios = [
+        "admin" => [hash('sha256', 'paso'), "Administrador"],
         "jesus" => [hash('sha256', 'paso'), "Jesús Temprano Gallego"],
         "heraclio" => [hash('sha256', 'paso'), "Héraclio Borbujo"]
     ];
